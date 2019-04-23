@@ -13,12 +13,12 @@
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-server</artifactId>
-            <version>9.0.0.RC2</version>
+            <version>LATEST</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>
             <artifactId>jetty-servlet</artifactId>
-            <version>9.0.0.RC2</version>
+            <version>LATEST</version>
         </dependency>
         <dependency>
             <groupId>org.apache.tomcat</groupId>
